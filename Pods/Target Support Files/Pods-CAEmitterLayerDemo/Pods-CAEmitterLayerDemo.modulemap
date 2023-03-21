@@ -1,0 +1,6 @@
+framework module Pods_CAEmitterLayerDemo {
+  umbrella header "Pods-CAEmitterLayerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
